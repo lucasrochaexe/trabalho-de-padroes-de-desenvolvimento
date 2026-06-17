@@ -1,1 +1,2 @@
-# trabalho-de-padroes-de-desenvolvimento
+Feat. Bruno Corrêa
+sobre: Singleton e  Strategy
