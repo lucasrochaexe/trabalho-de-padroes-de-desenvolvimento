@@ -64,10 +64,12 @@ Conclusão
 
 Os dois padrões melhoram a organização do código, mas resolvem problemas diferentes.
 
-Gruop by:
-Lucas Rocha / Bruno Corrêa
+
 
 O **Singleton** controla a criação de objetos.
 O **Strategy** controla a variação de comportamento.
 
 Em resumo, o Singleton responde à pergunta “quantas instâncias existem?”, enquanto o Strategy responde à pergunta “qual comportamento deve ser usado agora?”.
+
+Gruop by:
+Lucas Rocha / Bruno Corrêa
